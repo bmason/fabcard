@@ -1,0 +1,18 @@
+{
+   "Login" : "เข้าสู่ระบบ",
+   "Logout" : "ออกจากระบบ",
+   "Member Card" : "บัตรสมาชิก",
+   "View Coupons" : "ดูคูปอง",
+   "My Account" : "บัญชีของฉัน",
+   "Register with Fab Card" : "ลงทะเบียนกับ Fabcard",
+   "Fab Card registration web page" : "หน้าเว็บการลงทะเบียน Fabcard",
+   "Username" : "ชื่อผู้ใช้",
+   "Password" : "รหัสผ่าน",
+   "Request new password" : "ขอรหัสผ่านใหม่",
+   "Confirm" : "ยืนยัน",
+   "CANCEL" : "ยกเลิก",
+   "OK" : "ตกลง",
+   "Exit Fab Card?" : "ประตูออก Fab Card?",
+   "About" : "เกี่ยวกับ",
+   "Copyright" : "ลิขสิทธิ์"
+}
